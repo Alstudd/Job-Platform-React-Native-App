@@ -24,7 +24,7 @@ const Home = () => {
             <ScreenHeaderBtn iconUrl={icons.menu} dimension='60%' />
           ),
           headerRight: () => (
-            <ScreenHeaderBtn iconUrl={images.profile} dimension='100%' />
+            <ScreenHeaderBtn iconUrl="https://static.vecteezy.com/system/resources/thumbnails/002/002/403/small/man-with-beard-avatar-character-isolated-icon-free-vector.jpg" dimension='100%' />
           ),
           headerTitle: "",
         }}
